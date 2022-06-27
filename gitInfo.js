@@ -1,0 +1,75 @@
+/*
+    For this section of the assessment you will be putting together a cheat sheet for common git commands.  
+    You'll provide the command as well as what it does. 
+*/
+
+//////////////////PROBLEM 1////////////////////
+/*
+    Create a variable called 'gitDefinition'.
+    It should be a string containing your best definition of what Git is.
+*/
+
+let = gitDefinition = 'version control system, it tracks the diffrent versions of a file your working on'
+
+//////////////////PROBLEM 2////////////////////
+/*
+    Create a variable called 'gitHubDefinition'.  
+    It should be a string containing your best definition of what GitHub is.
+*/
+
+let gitHubDefinition = 'A website, that allows us to upload and download our gitrepositories in the cloud'
+
+//////////////////PROBLEM 3////////////////////
+/*
+    Create a variable called 'gitInitDefinition'.  
+    It should be a string containing your best definition of what 'git init' does.
+*/
+
+let gitInitDeffinition = 'initizlize a local repository in the folder'
+
+//////////////////PROBLEM 4////////////////////
+/*
+    Create a variable called 'gitCloneDefinition'.  
+    It should be a string containing your best definition of what 'git clone' does.
+*/
+
+let gitCloneDefinition = 'copy a repo for GitHub and put it on my machine'
+
+//////////////////PROBLEM 5////////////////////
+/*
+    Create a variable called 'gitStatusDefinition'.  
+    It should be a string containing your best definition of what 'git status' does.
+*/
+
+//CODE HERE
+
+//////////////////PROBLEM 6////////////////////
+/*
+    Create a variable called 'gitAddDefinition'.  
+    It should be a string containing your best definition of what 'git add' does.
+
+    Create another variable called 'gitAddCode'.  
+    It should be a string containing the code to add all files.
+*/
+
+let gitAddDefinition = 'add some files to be tracked'
+let gitAddCode = 'git add .'
+
+//////////////////PROBLEM 7////////////////////
+/*
+    Create a variable called 'gitCommitDefinition'.  
+    It should be a string containing your best definition of what 'git commit' does.
+
+    Create a variable called 'gitCommitCode'.  
+    It should be a string containing the code to commit using the message "initial commit".
+*/
+
+let gitCommitDefintion ='creates a snapshot of the files that are being tracked'
+let  gitCommitCode = 'git commit -m "initial commit"'
+//////////////////PROBLEM 8////////////////////
+/*
+    Create a variable called 'gitPushDefinition'.  
+    It should be a string containing your best definition of what 'git push' does.
+*/
+
+let gitPushDefintion = 'It uploades the your local git repository to GitHub'
